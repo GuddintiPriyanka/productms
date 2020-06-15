@@ -1,0 +1,74 @@
+
+scom.management.ProductMS.dto.SubscribedProductDTO#createEntity()Lcom/management/ProductMS/entity/SubscribedProduct;|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java# #(&"1*÷
+1|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java$' $(>íê
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java$+ $(<7
+%01com.management.ProductMS.entity.SubscribedProduct"1com.management.ProductMS.entity.SubscribedProductÿ
+ü
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java$' $(>
+%1";com.management.ProductMS.entity.SubscribedProduct#<init>()V*9
+7
+%01com.management.ProductMS.entity.SubscribedProductŠ
+‡
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java$ $(?F
+subscribedProduct1com.management.ProductMS.entity.SubscribedProduct"__id*9
+7
+%01com.management.ProductMS.entity.SubscribedProduct’
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java% %(0	
+%2int"?com.management.ProductMS.dto.SubscribedProductDTO#getBuyerId()I*53
+1com.management.ProductMS.dto.SubscribedProductDTO2getBuyerId()µ²
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java% %(1
+
+%3void"@com.management.ProductMS.entity.SubscribedProduct#setBuyerId(I)V*H
+F
+subscribedProduct1com.management.ProductMS.entity.SubscribedProduct*
+	
+%2int2setBuyerId(I)
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java& &(.	
+%4int">com.management.ProductMS.dto.SubscribedProductDTO#getProdId()I*53
+1com.management.ProductMS.dto.SubscribedProductDTO2getProdId()³°
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java& &(/
+
+%5void"?com.management.ProductMS.entity.SubscribedProduct#setProdId(I)V*H
+F
+subscribedProduct1com.management.ProductMS.entity.SubscribedProduct*
+	
+%4int2setProdId(I)Ž‹
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java' '(,	
+%6int"=com.management.ProductMS.dto.SubscribedProductDTO#getSubId()I*53
+1com.management.ProductMS.dto.SubscribedProductDTO2
+getSubId()±®
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java' '(-
+
+%7void">com.management.ProductMS.entity.SubscribedProduct#setSubId(I)V*H
+F
+subscribedProduct1com.management.ProductMS.entity.SubscribedProduct*
+	
+%6int2setSubId(I)”‘
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java(  ((2	
+%8int"@com.management.ProductMS.dto.SubscribedProductDTO#getQuantity()I*53
+1com.management.ProductMS.dto.SubscribedProductDTO2getQuantity()·´
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java( ((3
+
+%9void"Acom.management.ProductMS.entity.SubscribedProduct#setQuantity(I)V*H
+F
+subscribedProduct1com.management.ProductMS.entity.SubscribedProduct*
+	
+%8int2setQuantity(I)"È
+|
+rC:/Users/Priyaguddinti/eclipse/sample/Product/src/main/java/com/management/ProductMS/dto/SubscribedProductDTO.java) )(H
+F
+subscribedProduct1com.management.ProductMS.entity.SubscribedProductB53
+1com.management.ProductMS.dto.SubscribedProductDTO
